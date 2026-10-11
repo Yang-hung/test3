@@ -1,0 +1,6 @@
+{
+  "name": "天秤座救星 - 選擇障礙終結者",
+  "description": "專為天秤寶寶吳小姐設計的命運決定神器，可愛Labubu玩偶風格搭配猜拳、抽籤與轉盤全動態與音效。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
